@@ -1,6 +1,6 @@
 # MusicGenerator_LSTM
 
-Python Version: 2.7.6
+Python Version: 2.7.6 <br>
 Pytorch Version: 0.3.0
 
 In this project, we use [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) to learn the pattern of the given music samples and generate decent musics.<br>
